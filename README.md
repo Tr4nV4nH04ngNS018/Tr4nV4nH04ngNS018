@@ -119,12 +119,12 @@ STATUS : █████░░░░░ IN PROGRESS
 <tr>
 <td width="50%">
 
-**📊 [KPI-](https://github.com/Tr4nV4nH04ngNS018/KPI-)**
+**📊 KPI- (Private)**
 ```
 TYPE   : Performance Tracker
 STACK  : TypeScript
 FEAT   : Project KPI monitoring system
-STATUS : ██████████ COMPLETE
+STATUS : 🔐 PRIVATE
 ```
 
 </td>
