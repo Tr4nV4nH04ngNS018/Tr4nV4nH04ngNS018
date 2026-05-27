@@ -65,7 +65,7 @@
 
 ### 📬 [0x05] // TRANSMISSION CHANNELS (CONTACT)
 ```text
-[Email]  : baolhg.25ns@vku.udn.vn
+[Email]  : hkoioang22647@gmail.com
 [Github] : github.com/Tr4nV4nH04ngNS018
 ```
 
