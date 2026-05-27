@@ -51,8 +51,8 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:baolhg.25ns@vku.udn.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Email-baolhg.25ns%40vku.udn.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:hkoioang22647@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-hkoioang22647@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Tr4nV4nH04ngNS018" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Tr4nV4nH04ngNS018-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
