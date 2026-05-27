@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0d1117,100:00ff41&text=TR4NV4NH04NG&fontColor=00ff41&fontSize=50&fontAlignY=35&desc=%24%20root%40kali%3A~%23%20Access%20Granted&descAlignY=55&descSize=18&animation=twinkling&descColor=00ff41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:0d1117,100:00ff41&text=TR4NV4NH04NG&fontColor=00ff41&fontSize=50&fontAlignY=35&desc=%24%20root%40kali%3A~%23%20Access%20Granted&descAlignY=55&descSize=18&animation=twinkling&descColor=00ff41" width="100%"/>
 
 <div align="center">
+
+<img src="./kali_neofetch.png" width="700" alt="Kali Neofetch" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=650&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFkali)-[~%2Fprofile];%E2%94%94%E2%94%80%24+whoami+%3E+Security+Researcher;%E2%94%94%E2%94%80%24+cat+%2Fetc%2Fmotd;%3E+Hack+the+planet.+Code+the+future.;%E2%94%94%E2%94%80%24+nmap+-sV+brain.local;%3E+Open+ports%3A+Web+%7C+CTF+%7C+3D+%7C+Exploit" alt="Typing SVG" />
 
