@@ -1,33 +1,20 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0d1117,100:00ff41&text=TR4NV4NH04NG&fontColor=00ff41&fontSize=50&fontAlignY=35&desc=%24%20root%40kali%3A~%23%20Access%20Granted&descAlignY=55&descSize=18&animation=twinkling&descColor=00ff41" width="100%"/>
+
 <div align="center">
 
-```
-                  ....                               kali@TR4NV4NH04NG
-              .........                              -------------------
-            ..............                           OS     : Kali GNU/Linux
-           .....,;;;;;;;,.                           Host   : GitHub Profile
-         .....,;;;;;;;;;;;;;,                        Kernel : Hacker v3.0
-        ....,;;;;;;;;;;;;;;;;,                       Shell  : zsh 5.9
-       ....,;;;;;;;;;;;;;;;;;,    ,,                 DE     : Terminal
-      ....;;;;;;;;;;;;;;;;;;;;  ,;;;,                WM     : Matrix Theme
-      ...;;;;;;;;;;;;;;;;;;;;;,;;;;;,                CPU    : i5-13420H (16)
-      ..;;;;;;;;;;;;;,;;;;;;;;;;;;;;;,               GPU    : RTX Brain
-      .;;;;;;;;;;;;;,  ,;;;;;;;;;;;;;,               Memory : Unlimited
-      ;;;;;;;;;;;;,.     .;;;;;;;;;;;;               Disk   : Full of CTFs
-      ;;;;;;;;;;;;        ;;;;;;;;;;;;
-       ;;;;;;;;;; ;;    ;;;;;;;;;;;,                  ██████████████ Code (99%)
-        ;;;;;;;;; ;;   ;;;;;;;;;;,                   ██████████░░░░ Hack (70%)
-         ;;;;;;;;;     ;;;;;;;;;,                    ████████░░░░░░ CTF  (55%)
-          ;;;;;;;;    ;;;;;;;;,                      ██████░░░░░░░░ Sleep (0%)
-            ;;;;;;   ;;;;;;,
-              ;;;;   ;;;;,                     flag{TR4NV4NH04NGNS018}
-                ;;  ;;,
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=650&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFkali)-[~%2Fprofile];%E2%94%94%E2%94%80%24+whoami+%3E+Security+Researcher;%E2%94%94%E2%94%80%24+cat+%2Fetc%2Fmotd;%3E+Hack+the+planet.+Code+the+future.;%E2%94%94%E2%94%80%24+nmap+-sV+brain.local;%3E+Open+ports%3A+Web+%7C+CTF+%7C+3D+%7C+Exploit" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;%3E+Tr4nV4nH04ng+%7C+Security+Researcher;%24+cat+%2Fetc%2Fmotd;%3E+Hack+the+planet.+Code+the+future.;%24+nmap+-sV+skills.local;%3E+Open+ports%3A+Web+%7C+3D+%7C+CTF+%7C+Exploit;%24+exit" alt="Typing SVG" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0a0f0d,50:003300,100:39ff14&text=&animation=twinkling&section=header" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Tr4nV4nH04ngNS018-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/Tr4nV4nH04ngNS018)
+[![Email](https://img.shields.io/badge/Email-hkoioang22647-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:hkoioang22647@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Da_Nang,_Vietnam-00ff41?style=for-the-badge&logo=googlemaps&logoColor=00ff41&labelColor=0d1117)](#)
 
 </div>
+
+---
+
+<h3 align="center">💀 <code>[0x01]</code> // SYSTEM PROFILE</h3>
 
 ```
 ┌──(root㉿kali)-[~/TR4NV4NH04NGNS018]
@@ -38,13 +25,13 @@
 ║  [*] BASE        : VKU — Da Nang, Vietnam                      ║
 ║  [*] ROLE        : Software Engineer / Security Enthusiast     ║
 ║  [*] STATUS      : ██████████████████████████ ACTIVE           ║
-║  [*] THREAT LVL  : ███████░░░░░░░░░░░░░░░░░░ MEDIUM           ║
+║  [*] THREAT LVL  : ███████████████░░░░░░░░░░ HIGH              ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<h3>☠️ <code>[0x01]</code> // THREAT PROFILE</h3>
+<h3 align="center">☠️ <code>[0x02]</code> // THREAT PROFILE</h3>
 
 ```python
 #!/usr/bin/env python3
@@ -67,7 +54,7 @@ me = Hacker()
 
 ---
 
-<h3>⚙️ <code>[0x02]</code> // ARSENAL & WEAPONRY</h3>
+<h3 align="center">⚙️ <code>[0x03]</code> // ARSENAL & WEAPONRY</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -93,14 +80,15 @@ PORT      STATE    SERVICE         VERSION
 
 ---
 
-<h3>📊 <code>[0x03]</code> // SYSTEM METRICS</h3>
+<h3 align="center">📊 <code>[0x04]</code> // SYSTEM METRICS</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tr4nV4nH04ngNS018&bg_color=0a0f0d&color=39ff14&line=39ff14&point=ffffff&area_color=39ff14&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tr4nV4nH04ngNS018&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tr4nV4nH04ngNS018&theme=dark&hide_border=true&background=0A0F0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" height="180" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tr4nV4nH04ngNS018&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" height="180" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Tr4nV4nH04ngNS018&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" height="180" alt="Streak" />
 </p>
 
 <p align="center">
@@ -109,7 +97,7 @@ PORT      STATE    SERVICE         VERSION
 
 ---
 
-<h3>📂 <code>[0x04]</code> // EXPLOITS & REPOSITORIES</h3>
+<h3 align="center">📂 <code>[0x05]</code> // EXPLOITS & REPOSITORIES</h3>
 
 <table align="center">
 <tr>
@@ -165,7 +153,7 @@ STATUS : ████████░░ ACTIVE
 
 ---
 
-<h3>📡 <code>[0x05]</code> // SECURE CHANNELS</h3>
+<div align="center">
 
 ```
 ┌──(root㉿kali)-[~/contact]
@@ -178,16 +166,14 @@ STATUS : ████████░░ ACTIVE
   ╚═══════════════════════════════════════════════════╝
 ```
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0a0f0d,50:003300,100:39ff14&text=&section=footer" width="100%"/>
+<br/>
 
 ```
 [ACCESS GRANTED] // session_active — hack_the_planet.sh
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Tr4nV4nH04ngNS018&style=for-the-badge&color=39ff14&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Tr4nV4nH04ngNS018&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:0d1117,100:00ff41&section=footer" width="100%"/>
