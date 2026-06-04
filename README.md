@@ -23,7 +23,7 @@
 
 ---
 
-<h3>☠️ <code>[0x01]</code> // THREAT PROFILE</h3>
+<h3>☠️ <code>[0x01]</code> // xD</h3>
 
 ```python
 #!/usr/bin/env python3
@@ -46,7 +46,7 @@ me = Hacker()
 
 ---
 
-<h3>⚙️ <code>[0x02]</code> // ARSENAL & WEAPONRY</h3>
+<h3>⚙️ <code>[0x02]</code> // XD</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -72,7 +72,7 @@ PORT      STATE    SERVICE         VERSION
 
 ---
 
-<h3>📊 <code>[0x03]</code> // SYSTEM METRICS</h3>
+<h3>📊 <code>[0x03]</code> // XD</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tr4nV4nH04ngNS018&bg_color=0a0f0d&color=39ff14&line=39ff14&point=ffffff&area_color=39ff14&area=true&hide_border=true" width="95%" alt="Activity Graph" />
@@ -88,7 +88,7 @@ PORT      STATE    SERVICE         VERSION
 
 ---
 
-<h3>📂 <code>[0x04]</code> // EXPLOITS & REPOSITORIES</h3>
+<h3>📂 <code>[0x04]</code> // XD</h3>
 
 <table align="center">
 <tr>
