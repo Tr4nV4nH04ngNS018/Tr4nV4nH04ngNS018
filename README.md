@@ -164,7 +164,7 @@ STATUS : ████████░░ ACTIVE
 <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0a0f0d,50:003300,100:39ff14&text=&section=footer" width="100%"/>
 
 ```
-[ACCESS GRANTED] // session_active — hack_the_planet.sh
+[ACCESS GRANTED] // 2hondaitungdo
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Tr4nV4nH04ngNS018&style=for-the-badge&color=39ff14&label=PROFILE+VIEWS" alt="Profile Views" />
