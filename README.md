@@ -15,7 +15,7 @@
 ║  [*] CODENAME    : TR4NV4NH04NGNS018                           ║
 ║  [*] REAL NAME   : Tran Van Hoang                              ║
 ║  [*] BASE        : VKU — Da Nang, Vietnam                      ║
-║  [*] ROLE        : Software Engineer / Security Enthusiast     ║
+║  [*] ROLE        : SE / CS     ║
 ║  [*] STATUS      : ██████████████████████████ ACTIVE           ║
 ║  [*] THREAT LVL  : ███████░░░░░░░░░░░░░░░░░░ noob              ║
 ╚══════════════════════════════════════════════════════════════════╝
