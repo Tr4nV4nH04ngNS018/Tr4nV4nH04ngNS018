@@ -31,7 +31,7 @@ class Hacker:
     def __init__(self):
         self.name       = "Tran Van Hoang"
         self.alias      = "Tr4nV4nH04ngNS018"
-        self.education  = "Software Engineering @ VKU"
+        self.education  = "NS @ VKU"
         self.languages  = ["Vietnamese", "English"]
         self.interests  = ["Web Exploitation", "3D WebGL", "CTF"]
 
