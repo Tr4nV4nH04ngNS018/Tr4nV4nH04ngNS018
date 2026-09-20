@@ -57,7 +57,7 @@ me = Hacker()
 </p>
 
 ```
-┌──(root㉿kali)-[~/arsenal]
+┌──(hondaitodung㉿kali)-[~/animeroblocblockfruit]
 └─# nmap -sV localhost
 
 PORT      STATE    SERVICE         VERSION
