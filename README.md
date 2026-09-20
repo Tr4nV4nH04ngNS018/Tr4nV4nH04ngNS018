@@ -33,7 +33,7 @@ class Hacker:
         self.alias      = "Tr4nV4nH04ngNS018"
         self.education  = "Software Engineering @ VKU"
         self.languages  = ["Vietnamese", "English"]
-        self.interests  = ["Web Exploitation", "3D WebGL", "CTF", "Reverse Engineering"]
+        self.interests  = ["Web Exploitation", "3D WebGL", "CTF"]
 
     def current_mission(self):
         return "Defending Capstone Project: EcoImpact Hero 🌍"
