@@ -130,13 +130,6 @@ STATUS : 🔐 PRIVATE
 </td>
 <td width="50%">
 
-**🛡️ [cyberbully](https://github.com/Tr4nV4nH04ngNS018/cyberbully)**
-```
-TYPE   : Cybersecurity Project
-STACK  : HTML / Research
-FEAT   : Anti-cyberbullying awareness
-STATUS : ████████░░ ACTIVE
-```
 
 </td>
 </tr>
