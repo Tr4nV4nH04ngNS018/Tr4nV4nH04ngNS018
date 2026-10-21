@@ -34,7 +34,7 @@ class Hacker:
         self.education  = "NS @ VKU"
         self.languages  = ["Vietnamese", "English"]
         self.interests  = ["Web Exploitation", "3D WebGL", "CTF"]
-
+        self.CVE        = "CVE 2026-113353,CVE 2026-113607,CVE-2026-113608,CVE-2026-113683"
     def current_mission(self):
         return "Defending Capstone Project: EcoImpact Hero 🌍"
 
