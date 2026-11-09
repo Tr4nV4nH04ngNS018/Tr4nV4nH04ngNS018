@@ -48,14 +48,6 @@ me = Hacker()
 
 <h3>⚙️ <code>[0x02]</code> // XD</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,threejs&theme=dark" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,mysql,mongodb,blender&theme=dark" /><br/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman&theme=dark" />
-  </a>
-</p>
-
 ```
 ┌──(hondaitodung㉿kali)-[~/animeroblocblockfruit]
 └─# nmap -sV localhost
@@ -72,23 +64,7 @@ PORT      STATE    SERVICE         VERSION
 
 ---
 
-<h3>📊 <code>[0x03]</code> // XD</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tr4nV4nH04ngNS018&bg_color=0a0f0d&color=39ff14&line=39ff14&point=ffffff&area_color=39ff14&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tr4nV4nH04ngNS018&theme=dark&hide_border=true&background=0A0F0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" height="180" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tr4nV4nH04ngNS018&theme=matrix&no-frame=true&no-bg=true&column=7" width="95%" alt="Trophies" />
-</p>
-
----
-
-<h3>📂 <code>[0x04]</code> // XD</h3>
+<h3>📂 <code>[0x03]</code> // XD</h3>
 
 <table align="center">
 <tr>
@@ -137,7 +113,7 @@ STATUS : 🔐 PRIVATE
 
 ---
 
-<h3>📡 <code>[0x05]</code> // SECURE CHANNELS</h3>
+<h3>📡 <code>[0x04]</code> // SECURE CHANNELS</h3>
 
 ```
 ┌──(root㉿kali)-[~/contact]
