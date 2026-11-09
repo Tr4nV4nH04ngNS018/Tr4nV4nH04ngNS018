@@ -46,25 +46,7 @@ me = Hacker()
 
 ---
 
-<h3>⚙️ <code>[0x02]</code> // XD</h3>
-
-```
-┌──(hondaitodung㉿kali)-[~/animeroblocblockfruit]
-└─# nmap -sV localhost
-
-PORT      STATE    SERVICE         VERSION
-───────── ──────── ─────────────── ──────────────────────────────
-22/tcp    open     frontend        HTML5 / CSS3 / JS(ES6+) / TailwindCSS
-80/tcp    open     3d-engine       Three.js (WebGL) + Blender glTF Pipeline
-443/tcp   open     backend         Node.js / Express / REST APIs
-3306/tcp  open     database        MySQL / MongoDB / LocalStorage
-8080/tcp  open     proxy           PowerShell CORS Reverse Proxy
-9999/tcp  open     ctf-solver      Reverse Engineering / Binary Exploit
-```
-
----
-
-<h3>📂 <code>[0x03]</code> // XD</h3>
+<h3>📂 <code>[0x02]</code> // XD</h3>
 
 <table align="center">
 <tr>
@@ -113,7 +95,7 @@ STATUS : 🔐 PRIVATE
 
 ---
 
-<h3>📡 <code>[0x04]</code> // SECURE CHANNELS</h3>
+<h3>📡 <code>[0x03]</code> // SECURE CHANNELS</h3>
 
 ```
 ┌──(root㉿kali)-[~/contact]
